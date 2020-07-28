@@ -1,0 +1,32 @@
+[ 
+    { 
+    "id": 1, 
+    "name": "Spongebob Squarepants",
+    "email": "numbr1frycook@puffboat.edu" 
+    }, 
+    { 
+    "id": 2, 
+    "name": "Patrick Star", 
+    "email": "under.a.rock@hotmail.com" 
+    }, 
+    { 
+    "id": 3, 
+    "name": "Squidward Tentacles", 
+    "email": "clarniet.god@aol.com" 
+    }, 
+    { 
+    "id": 4, 
+    "name": "Sandy Cheeks", 
+    "email": "karate.kween@gmail.com"
+    }, 
+    { 
+    "id": 5, 
+    "name": "Eugene Krabs", 
+    "email": "payme@krustykrab.net" 
+    }, 
+    { 
+    "id": 6, 
+    "name": "Sheldon Plankton", 
+    "email": "pure3V17@chum.bkt" 
+    } 
+    ]
